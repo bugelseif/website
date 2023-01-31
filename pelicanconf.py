@@ -30,5 +30,4 @@ DEFAULT_PAGINATION = 3
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "themes/notmyidea"
-# THEME = 'C:/Users/Bugs/AppData/Local/Programs/Python/Python311/Lib/site-packages/pelican/themes/bugelseif'
+THEME = "themes/bugelseif"
