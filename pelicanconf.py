@@ -1,6 +1,6 @@
 AUTHOR = 'Bruna Ferreira'
 SITENAME = 'Bruna Ferreira'
-SITEURL = '/'
+SITEURL = '/website'
 
 PATH = 'content'
 
