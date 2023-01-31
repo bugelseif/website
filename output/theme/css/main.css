@@ -50,12 +50,12 @@ hr { border: 2px solid #EEEEEE; }
 a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
-	color: #b843c7;
+	color: #C74350;
 	padding: 0 1px;
 	text-decoration: underline;
 }
 a:hover, a:active {
-	background-color: #b843c7;
+	background-color: #C74350;
 	color: #fff;
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #333;
@@ -88,10 +88,9 @@ li { margin-top: 0.5em;
      margin-bottom: 1em; }
 
 .post-info {
-	background-color: #ccc;
     float:right;
     margin:10px;
-    padding:15px;
+    padding:5px;
 }
 
 .post-info p{
@@ -192,7 +191,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #b843c7;
+		color: #C74350;
 		text-shadow: none;
 	}
 
@@ -226,7 +225,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
-		background: #b843c7;
+		background: #C74451;
 		color: #fff;
 		text-shadow: none !important;
 	}
@@ -264,7 +263,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 }
 #featured figure img {display: block; float: right;}
 
-#featured h2 {color: #b843c7; font-size: 1.714em; margin-bottom: 0.333em;}
+#featured h2 {color: #C74451; font-size: 1.714em; margin-bottom: 0.333em;}
 #featured h3 {font-size: 1.429em; margin-bottom: .5em;}
 
 #featured h3 a:link, #featured h3 a:visited {color: #000305; text-decoration: none;}
@@ -293,7 +292,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 #extras ul {list-style: none; margin: 0;}
 #extras li {border-bottom: 1px solid #fff;}
 #extras h2 {
-	color: #b843c7;
+	color: #C74350;
 	font-size: 1.429em;
 	margin-bottom: .25em;
 	padding: 0 3px;
@@ -413,7 +412,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	#posts-list .hentry {padding-left: 10px; position: relative;}
 
 	#posts-list footer {
-		left: 5px;
+		left: 10px;
 		position: relative;
         float: left;
 		top: 0.5em;
@@ -434,7 +433,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	}
 
 	#about-author strong {
-		color: #b843c7;
+		color: #C64350;
 		clear: both;
 		display: block;
 		font-size: 1.429em;
