@@ -50,12 +50,12 @@ hr { border: 2px solid #EEEEEE; }
 a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
-	color: #b843c7;
+	color: #b26b88;
 	padding: 0 1px;
 	text-decoration: underline;
 }
 a:hover, a:active {
-	background-color: #b843c7;
+	background-color: #b26b88;
 	color: #fff;
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #333;
@@ -88,10 +88,11 @@ li { margin-top: 0.5em;
      margin-bottom: 1em; }
 
 .post-info {
-	background-color: #ccc;
+	background-color: #eee;
+	border-radius: 180px 20px 180px 65px;
     float:right;
-    margin:10px;
-    padding:15px;
+    margin:5px;
+    padding:30px;
 }
 
 .post-info p{
@@ -147,6 +148,10 @@ aside, nav, article, figure {
 	display: block;
 }
 
+article p img {
+	border-radius: 300px 500px 300px 500px;
+}
+
 /***** Layout *****/
 .body {clear: both; margin: 0 auto; max-width: 800px;}
 img { max-width: 100%; }
@@ -175,8 +180,13 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	margin: 0 auto;
 	padding: 0.8em 0 0 0;
 }
-
+	
 	/* Banner */
+	#banner div {
+		display: flex; 
+		align-items: end;
+	}
+
 	#banner h1 {
 		font-size: 3.571em;
 		line-height: 1.0;
@@ -184,7 +194,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 
 	#banner h1 a:link, #banner h1 a:visited {
-		color: #000305;
+		color: #333;
 		display: block;
 		font-weight: bold;
 		margin: 0 0 0 .2em;
@@ -192,7 +202,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #b843c7;
+		color: #b26b88;
 		text-shadow: none;
 	}
 
@@ -200,7 +210,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 
 	/* Main Nav */
 	#banner nav {
-		background: #000305;
+		background: #333;
 		font-size: 1.143em;
 		overflow: auto;
 		line-height: 30px;
@@ -226,7 +236,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
-		background: #b843c7;
+		background: #b26b88;
 		color: #fff;
 		text-shadow: none !important;
 	}
@@ -264,7 +274,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 }
 #featured figure img {display: block; float: right;}
 
-#featured h2 {color: #b843c7; font-size: 1.714em; margin-bottom: 0.333em;}
+#featured h2 {color: #b26b88; font-size: 1.714em; margin-bottom: 0.333em;}
 #featured h3 {font-size: 1.429em; margin-bottom: .5em;}
 
 #featured h3 a:link, #featured h3 a:visited {color: #000305; text-decoration: none;}
@@ -293,7 +303,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 #extras ul {list-style: none; margin: 0;}
 #extras li {border-bottom: 1px solid #fff;}
 #extras h2 {
-	color: #b843c7;
+	color: #b26b88;
 	font-size: 1.429em;
 	margin-bottom: .25em;
 	padding: 0 3px;
@@ -413,7 +423,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	#posts-list .hentry {padding-left: 10px; position: relative;}
 
 	#posts-list footer {
-		left: 5px;
+		/* left: 5px; */
 		position: relative;
         float: left;
 		top: 0.5em;
@@ -434,7 +444,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	}
 
 	#about-author strong {
-		color: #b843c7;
+		color: #b26b88;
 		clear: both;
 		display: block;
 		font-size: 1.429em;
