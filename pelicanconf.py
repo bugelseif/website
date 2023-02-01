@@ -3,6 +3,7 @@ SITENAME = 'Bruna Ferreira'
 SITEURL = '/website'
 
 PATH = 'content'
+STATIC_PATHS = ['imagens']
 
 TIMEZONE = 'America/Sao_Paulo'
 
