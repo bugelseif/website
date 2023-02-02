@@ -7,4 +7,4 @@ Nesse artigo publicado [dev.to](https://dev.to/bug_elseif/criando-overlay-com-a-
 
 <br><br><br>
 
-[Veja o artigo completo.](https://dev.to/bug_elseif/criando-overlay-com-a-previsao-do-tempo-5af)
+[Veja o artigo completo.](https://dev.to/bug_elseif/criando-overlay-com-a-previsao-do-tempo-5af){:target="_blank"}

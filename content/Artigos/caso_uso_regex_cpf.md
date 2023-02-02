@@ -7,4 +7,4 @@ Nesse artigo exemplifiquei, usando Python, algumas formas de escrever um RegEx p
 
 <br><br><br>
 
-[Veja o artigo completo.](https://dev.to/feministech/caso-de-uso-regex-19bn)
+[Veja o artigo completo.](https://dev.to/feministech/caso-de-uso-regex-19bn){:target="_blank"}
