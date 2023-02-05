@@ -26,7 +26,7 @@ SOCIAL = (('Github', 'https://github.com/bugelseif'),
           ('Twitter', 'https://twitter.com/bug_elseif'),
           ('Dev.to', 'https://dev.to/bug_elseif'),)
 
-DEFAULT_PAGINATION = 3
+DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
