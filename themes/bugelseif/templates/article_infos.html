@@ -1,9 +1,9 @@
 <footer class="post-info">
-        <abbr class="published" title="{{ article.date.isoformat() }}">
+        <!-- <abbr class="published" title="{{ article.date.isoformat() }}">
                 Publicado: {{ article.locale_date }}
-        </abbr>
+        </abbr> -->
         {% if article.modified %}
-		<br />
+        <br />
         <abbr class="modified" title="{{ article.modified.isoformat() }}">
                 Modificado: {{ article.locale_modified }}
         </abbr>
@@ -12,12 +12,12 @@
         {% if article.authors %}
         <address class="vcard author">
                 Por {% for author in article.authors %}
-                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
                 {% endfor %}
         </address>
         {% endif %}
-<p>Em <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>.</p>
-{% include 'taglist.html' %}
-{% import 'translations.html' as translations with context %}
-{{ translations.translations_for(article) }}
+        <p>Em <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></p>
+        {% include 'taglist.html' %}
+        {% import 'translations.html' as translations with context %}
+        {{ translations.translations_for(article) }}
 </footer><!-- /.post-info -->
