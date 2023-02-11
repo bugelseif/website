@@ -424,10 +424,11 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 	#posts-list footer {
 		/* left: 5px; */
+		margin-right: 1rem;
 		position: relative;
         float: left;
 		top: 0.5em;
-		max-width: 190px;
+		max-width: 160px;
 	}
 
 	/* About the Author */
