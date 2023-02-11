@@ -3,7 +3,7 @@ Date: 2022-07-11
 Category: Artigos
 Tags: Python, tutorial, patterns
 
-Aqui eu demonstrei um pouco sobre o padrão de projeto *iterator* teóricamento e usando Python. 
+Aqui eu demonstrei um pouco sobre o padrão de projeto *iterator* teóricamente e usando Python. 
 
 <br><br><br>
 
