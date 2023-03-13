@@ -7,4 +7,4 @@ Criei um canal no Youtube para deixar alguns conteúdos gravados em vídeo dispo
 
 <br><br>
 
-[Inscreva-se!](www.youtube.com/@bug_elseif){:target="_blank"}
+[Inscreva-se!](https://www.youtube.com/@bug_elseif){:target="_blank"}
