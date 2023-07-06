@@ -23,7 +23,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/bugelseif'),
-          ('Twitter', 'https://twitter.com/bug_elseif'),
+          ('LinkedIn', 'hhttps://www.linkedin.com/in/bugelseif/'),
           ('Dev.to', 'https://dev.to/bug_elseif'),)
 
 DEFAULT_PAGINATION = 6

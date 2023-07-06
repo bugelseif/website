@@ -17,7 +17,7 @@
 /***** Global *****/
 /* Body */
 body {
-    background: #F5F4EF;
+    background: #170F1A;
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -88,7 +88,7 @@ li { margin-top: 0.5em;
      margin-bottom: 1em; }
 
 .post-info {
-	background-color: #eee;
+	background-color: #d1d0d2;
 	border-radius: 180px 20px 180px 65px;
     float:right;
     margin:5px;
@@ -194,7 +194,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 
 	#banner h1 a:link, #banner h1 a:visited {
-		color: #333;
+		color: #d1d0d2;
 		display: block;
 		font-weight: bold;
 		margin: 0 0 0 .2em;
@@ -228,7 +228,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	#banner nav li {float: left; display: inline; margin: 0;}
 
 	#banner nav a:link, #banner nav a:visited {
-		color: #fff;
+		color: #e3e3e3;
 		display: inline-block;
 		height: 30px;
 		padding: 5px 1.5em;
@@ -237,7 +237,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
 		background: #b26b88;
-		color: #fff;
+		color: #e3e3e3;
 		text-shadow: none !important;
 	}
 
@@ -255,7 +255,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	Featured
 *****************/
 #featured {
-	background: #fff;
+	background: #e3e3e3;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
@@ -284,7 +284,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	Body
 *****************/
 #content {
-	background: #fff;
+	background: #e3e3e3;
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
@@ -300,8 +300,16 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 *****************/
 #extras {margin: 0 auto 3em auto; overflow: hidden;}
 
-#extras ul {list-style: none; margin: 0;}
-#extras li {border-bottom: 1px solid #fff;}
+#extras ul {
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	margin: 0;
+}
+#extras li {
+	background-color: #d1d0d2;
+	border-radius: 10px 10px;
+}
 #extras h2 {
 	color: #b26b88;
 	font-size: 1.429em;
@@ -329,8 +337,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 
 	/* Social */
 	#extras .social {
-		float: right;
-		max-width: 175px;
+		background-color: #170F1A;
 	}
 
 	#extras div[class='social'] a {
@@ -370,7 +377,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	About
 *****************/
 #about {
-	background: #fff;
+	background: #e3e3e3;
 	font-style: normal;
 	margin-bottom: 2em;
 	overflow: hidden;
