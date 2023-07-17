@@ -7,4 +7,4 @@ Participei da OctogatosConf 2022, apresentando uma visão geral sobre compilador
 <br><br><br>
 Confira aqui:
 
-<iframe src="https://www.youtube.com/watch?v=2o5k_BzJqsY&t=28244s&parent=bugelseif.github.io&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2o5k_BzJqsY?start=28244" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
