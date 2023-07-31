@@ -1,6 +1,6 @@
 Title: Conhecendo compiladores: analisador léxico 
 Date: 2022-09-21
-Category: Palestras
+Category: Videos
 
 Participei da OctogatosConf 2022, apresentando uma visão geral sobre compiladores com foco no funcionamento do analisador léxico.
 

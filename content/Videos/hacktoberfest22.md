@@ -1,6 +1,6 @@
 Title: O que é hacktoberfest 
 Date: 2022-10-08
-Category: Palestras
+Category: Videos
 
 Em 2022 participei pela segunda vez da Hacktoberfest, fiz essa palestra mostrando como participar do evento. Junto da [Feministech](https://feministech.com.br/){:target="_blank"} também abordamos temas como Git, Github e Open Source.
 
