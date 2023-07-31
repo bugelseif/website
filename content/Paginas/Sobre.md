@@ -8,8 +8,8 @@ Olá! Meu nome é Bruna Ferreira, criei esse espaço pra reunir e compartilhar c
 
 ### Profissional:
 
-- Desenvolvedora de software / DevX na [BotCity](https://www.botcity.dev/)
-- Content creator na [Revelo community](https://community.revelo.com.br/)
+- Desenvolvedora de software / DevX na [BotCity](https://www.botcity.dev/){:target="_blank"}
+- Content creator na [Revelo community](https://community.revelo.com.br/){:target="_blank"}
 
 ### Acadêmica:
 
@@ -19,14 +19,14 @@ Olá! Meu nome é Bruna Ferreira, criei esse espaço pra reunir e compartilhar c
 
 ### Comunidade:
 
-- Streamer na [Feministech](https://feministech.com.br)
-- Coder no [CodeShow](https://codeshow.com.br)
+- Streamer na [Feministech](https://feministech.com.br){:target="_blank"}
+- Coder no [CodeShow](https://codeshow.com.br){:target="_blank"}
 
 
 ### Pessoal:
 
-- LGBTQIAP+ > ACE
-- PDC > TEA
+- LGBTQIAP+ → ACE
+- PCD → TEA
 
 ---
 
