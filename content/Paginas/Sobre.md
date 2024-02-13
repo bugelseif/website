@@ -9,12 +9,12 @@ Olá! Meu nome é Bruna Ferreira, criei esse espaço pra reunir e compartilhar c
 ### Profissional:
 
 - Desenvolvedora de software / DevX na [BotCity](https://www.botcity.dev/){:target="_blank"}
-- Content creator na [Revelo community](https://community.revelo.com.br/){:target="_blank"}
+- YouTuber amadora [@bug_elseif](https://www.youtube.com/@bug_elseif){:target="_blank"}
 
 ### Acadêmica:
 
 - Técnica em informática para internet
-- Bel.a em ciência da computação (8/8)
+- Bel.a em ciência da computação
 
 
 ### Comunidade:
