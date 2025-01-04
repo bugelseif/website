@@ -1,6 +1,6 @@
 Title: Compilador - Analise léxica
 Date: 2022-07-11
-Category: Lives
+Category: Videos
 Tags: Python, tutorial, compilador
 
 Uma atividade opcional da faculdade foi fazer um compilador, nessa live eu mostro os passos no analisador léxico e corrijo alguns erros que estavam sendo apresentados.
