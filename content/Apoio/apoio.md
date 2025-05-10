@@ -1,12 +1,12 @@
 Title: Apoio
 Date: 2025-01-31
 Category: Apoio
-Tags: Janeiro
+Tags: Agradecimento
 
-### Espaço dedicado as pessoas apoiadoras do mês de Janeiro/2025.
-
+### Espaço dedicado as pessoas apoiadoras.
 🖤 Agradecimento especial aos @
 
+#### Janeiro/2025
 Subs na Twitch:
 
 - mulherprogramadora, iurilourenco, morgannadev, mauriciofauth, renansilvamaciel, davibusanello
@@ -14,6 +14,27 @@ Subs na Twitch:
 Pelo ingresso pybr2025:
 
 - augustocc
+
+<br><hr>
+
+#### Fevereiro/2025
+Subs na Twitch:
+
+- mulherprogramadora, iurilourenco, morgannadev, rennanps31, superp0sit1on_, davibusanello, codeshow, eduardoromeiro_
+
+<br><hr>
+
+#### Março/2025
+Subs na Twitch:
+
+- mulherprogramadora, iurilourenco, renansilvamaciel, cliverosfield_, superp0sit1on_, davibusanello, charrua_catarina, mauriciofauth
+
+<br><hr>
+
+#### Abril/2025
+Subs na Twitch:
+
+- mulherprogramadora, iurilourenco, yzardock, pachicodes, superp0sit1on_, davibusanello, leonadev
 
 <br><hr>
 
